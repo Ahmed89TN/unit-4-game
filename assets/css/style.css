@@ -1,0 +1,12 @@
+.card, .text-center {
+    font-family: 'Carter One', cursive;
+    font-size: 200%;
+    margin: 4px;
+}
+.card-header{
+    font-family:  'Carter One', cursive;
+}
+p{
+    font-weight:bold;
+    
+}
